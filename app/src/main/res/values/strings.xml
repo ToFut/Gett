@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeTremp</string>
+    <string name="example_autocompletetextview"> GeTremp </string>
+    <string name="button" />
+    <string name="user_greeting" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pick_time" />
+</resources>
