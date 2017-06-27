@@ -40,7 +40,8 @@
         android:autofillHints="To where?"
         android:ems="10"
         android:textAlignment="center"
-        android:textAllCaps="false" />
+        android:textAllCaps="false"
+        android:layout_alignLeft="@+id/autoCompleteTextView1" />
 
     <Button
         android:id="@+id/bt_launch_activity2"

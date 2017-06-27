@@ -1,4 +1,4 @@
-package com.getremp.check;
+package com.iaf.gettremp.gettremp;
 
 
 import android.annotation.TargetApi;
@@ -19,6 +19,8 @@ import android.preference.RingtonePreference;
 import android.support.v7.app.ActionBar;
 import android.text.TextUtils;
 import android.view.MenuItem;
+
+import com.getremp.check.R;
 
 import java.util.List;
 
